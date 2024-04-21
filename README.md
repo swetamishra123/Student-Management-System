@@ -1,4 +1,4 @@
-# Django Student Management System (beta)
+# Django Student Management System 
 This is a Simple Student Management System Developed for Educational Purpose using Python (Django).
 Feel free to make changes based on your requirements.
 
@@ -30,11 +30,6 @@ Feel free to make changes based on your requirements.
 3. View Result
 4. Apply for Leave
 5. Send Feedback to HOD
-
-
-## Support Developer
-
-1. Add a Star 🌟  to this 👆 Repository
 
 
 ## How to Install and Run this project?
@@ -86,12 +81,12 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/vijaythapa333/django-student-management-system.git
+$  git clone https://github.com/swetamishra123/Student-Management-System.git
 ```
 
 Then, Enter the project
 ```
-$  cd django-student-management-system
+$  cd Student-Management-System
 ```
 
 **4. Install Requirements from 'requirements.txt'**
@@ -129,19 +124,7 @@ $  python manage.py createsuperuser
 ```
 Then Add Email, Username and Password
 
-**or Use Default Credentials**
 
-*For HOD /SuperAdmin*
-Email: admin@gmail.com
-Password: admin
-
-*For Staff*
-Email: staff@gmail.com
-Password: staff
-
-*For Student*
-Email: student@gmail.com
-Password: student
 
 
 
