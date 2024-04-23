@@ -3,7 +3,6 @@ This is a Simple Student Management System Developed for Educational Purpose usi
 Feel free to make changes based on your requirements.
 
 
-
 ## Features of this Project
 
 ### A. Admin Users Can
